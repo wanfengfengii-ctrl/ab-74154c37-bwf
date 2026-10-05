@@ -11,3 +11,6 @@ __pycache__/
 .nox/
 .pnpm-store/
 *.py[cod]
+
+# baked into the Docker image at build time
+build-info.json
